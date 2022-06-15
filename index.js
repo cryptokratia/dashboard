@@ -1,2 +1,2 @@
 
-document.getElementById("demo").innerHTML = "Welcome to Cryptokratia";
+document.getElementById("dashboard").innerHTML = "Welcome to Cryptokratia";
