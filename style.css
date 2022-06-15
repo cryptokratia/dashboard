@@ -4,5 +4,10 @@ background: #000;
 }
 body {
   color: #fff;
+}
+h1 {
   font-family: 'Orientalismus', sans-serif;
+}
+p {
+  font-family: sans-serif;
 }
