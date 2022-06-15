@@ -1,7 +1,8 @@
-
+@import url('http://fonts.cdnfonts.com/css/orientalismus');
 html {
 background: #000;
 }
 body {
   color: #fff;
+  font-family: 'Orientalismus', sans-serif;
 }
