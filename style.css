@@ -1,4 +1,4 @@
-@import url('http://fonts.cdnfonts.com/css/orientalismus');
+@import url('https://fonts.googleapis.com/css2?family=Joan&display=swap');
 html {
 background: #000;
 }
@@ -6,7 +6,7 @@ body {
   color: #fff;
 }
 h1 {
-  font-family: 'Orientalismus', sans-serif;
+  font-family: 'Joan', serif;
 }
 p {
   font-family: sans-serif;
